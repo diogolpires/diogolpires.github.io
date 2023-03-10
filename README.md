@@ -1,1 +1,3 @@
-# diogolpires.github.io
+# About
+
+### I am a PhD candidate and Marie Curie Research Fellow in the Department of Mathematics at City, University of London. My interests are focused on the development of modelling tools for the evolution of behaviour, particularly in the context of wvolutionary game theory, incorporating features of real complex systems. I am interested in understanding and informing aspects of social and biological systems related to collective action, population structure and mobility. I am doing my PhD under the supervision of Professor Mark Broom, and as part of EvoGamesPlus, a broad european consortium focused on the theory and applications of evolutionary game theory.
