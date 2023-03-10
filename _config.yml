@@ -7,9 +7,10 @@ permalink:        pretty
 
 # Setup
 title:            Diogo L. Pires
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'Personal Website'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme.'
 url: "https://diogolpires.github.io"
+baseurl: ""
 
 author:
   name:           'Diogo L. Pires'
