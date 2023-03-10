@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+Permalink: https://diogolpires.github.io/publications/
 ---
 
 
