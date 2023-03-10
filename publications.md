@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Publications
-Permalink: https://diogolpires.github.io/publications/
 ---
 
 
