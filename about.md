@@ -5,7 +5,7 @@ title: About
 
 
 <p class="message">
-  Hi! I'm Diogo and I'm a PhD candidate and Marie Curie Research Fellow in the Department of Mathematics at  <a href="https://www.city.ac.uk/about/people/academics/diogo-pires" target="_blank">City, University of Londonm</a>. 
+  Hi! I'm Diogo and I'm a PhD candidate and Marie Curie Research Fellow in the Department of Mathematics at  <a href="https://www.city.ac.uk/about/people/academics/diogo-pires" target="_blank">City, University of London</a>. 
   </p>
 
 <p class="message">
