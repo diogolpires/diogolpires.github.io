@@ -1,7 +1,7 @@
 # Setup
-title:            Diogo Pires
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Diogo L. Pires
+tagline:          'Personal page'
+description:      'PhD candidate <a href="https://www.city.ac.uk/about/people/academics/diogo-pires#" target="_blank">@CityUniLondon</a> and Marie Curie Fellow <a href="https://evogamesplus.eu" target="_blank">@EvoGamesPlus</a>.'
 url:              https://diogolpires.github.io
 baseurl:          ''
 paginate:         5
@@ -9,7 +9,7 @@ paginate:         5
 # About and contact
 author:
   name:           'Diogo Pires'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/pires_dl
 
 # Gems
 plugins:
