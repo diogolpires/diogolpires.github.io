@@ -20,7 +20,7 @@ Here is a list of talks I have recently given, or plan to give:
 
 * 09.12.2022 Evolutionary Models of Finite and Structured Populations. [Queen Mary Internal Postgraduate Seminars.](https://www.qmul.ac.uk/maths/research/seminars/queen-mary-internal-postgraduate-seminar/) London, UK.
 
-* 24.11.2022 Evolutionary Models of Finite and Structured Populations.	[EvoGamesPlus Winter School 2022.](https://tecoevo.github.io/winterschool/	https://tecoevo.github.io/abstracts/) Ploen, Germany.
+* 24.11.2022 Evolutionary Models of Finite and Structured Populations.	[EvoGamesPlus Winter School 2022.](https://tecoevo.github.io/winterschool/) Ploen, Germany.
 
 * 09.06.2022 Multiplayer Games in Networks of Mobile Agents. [TSE Summer School on Quantitative Social Sciences 2022.](https://www.iast.fr/summer-schools) 	Toulouse, France.
 
