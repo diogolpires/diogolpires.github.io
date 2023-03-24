@@ -3,7 +3,7 @@ title:            Diogo L. Pires
 tagline:          'Personal page'
 description:      'PhD candidate <a href="https://www.city.ac.uk/about/people/academics/diogo-pires#" target="_blank">@CityUniLondon</a> and Marie Curie Fellow <a href="https://evogamesplus.eu" target="_blank">@EvoGamesPlus</a>.'
 url:              https://diogolpires.github.io
-baseurl:          ''
+#baseurl:          ''
 paginate:         5
 
 # About and contact
