@@ -12,7 +12,7 @@ title: About
 <p> From February to May 2022, I was a research visitor at the University of North Carolina in Greensboro, working under the supervision of Igor Erovenko. 
   <p/>
   
- <p> From April to July 2023, I will be a research visitor at the Medical University of Vienna and the Complexity Science Hub, working under the supervision of Rudi Hanel.
+ <p> From April to July 2023, I will be a research visitor at the Medical University of Vienna and the Complexity Science Hub, working under the supervision of Rudolf Hanel.
   <p/>
 
 <p> I received my Master's degree in Engineering Physics (2020) from Instituto Superior Técnico in Lisbon, Portugal. My final research project was on The Evolution of Signalling in Adaptive Networks, done under the supervision of Prof. Francisco C. Santos. During that time, I worked as a graduate research assistant for 6 months at the Group on AI for People and Society (GAIPS, INESC-ID) under the project Stochastic Dynamics of Collective Action (STOCA).
