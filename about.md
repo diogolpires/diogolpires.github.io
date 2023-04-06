@@ -5,7 +5,7 @@ title: About
 
 I'm interested in developing modelling tools for studying behaviour emergence, particularly in the context of evolutionary game theory and often incorporating realistic features of complex systems. My focus is on understanding and informing aspects of social and biological systems related to collective action, population structure, and mobility. 
 
-I'm currently doing my PhD on * The evolution of cooperation in structured populations involving multiplayer interactions* under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html) as part of [EvoGamesPlus](https://evogamesplus.eu), an European consortium focused on the theory and applications of evolutionary game theory.
+I'm currently doing my PhD on *The evolution of cooperation in structured populations involving multiplayer interactions* under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html) as part of [EvoGamesPlus](https://evogamesplus.eu), an European consortium focused on the theory and applications of evolutionary game theory.
   
 From February to May 2022, I was a research visitor at the [University of North Carolina in Greensboro](https://www.uncg.edu), working under the supervision of [Igor Erovenko](https://sites.google.com/uncg.edu/igor/). 
 
