@@ -12,7 +12,7 @@ Here is a list of some of my recent publications.
 * **Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations**
   <font size="3">  
   <br>
-  Diogo L. Pires, Igor V. Erovenko, Mark Broom
+  Diogo L. Pires, Igor V. Erovenko, Mark Broom<br>
   Submitted. ArXiv:2304.09799.<br>
   (<a href="https://arxiv.org/pdf/2304.09799.pdf" target="_blank">pdf</a>)
   </font> 
