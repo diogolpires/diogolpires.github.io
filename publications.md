@@ -10,6 +10,7 @@ Here is a list of some of my recent publications.
 
 2023
 * **Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations**\
+ 
   <font size="3">  
   Diogo L. Pires, Igor V. Erovenko, Mark Broom<br>
   Submitted. ArXiv:2304.09799.<br>
@@ -18,6 +19,7 @@ Here is a list of some of my recent publications.
 
 2022
 * **More can be better: An analysis of single-mutant fixation probability functions under 2×2 games**\
+
   <font size="3">  
   Diogo L. Pires, Mark Broom<br>
   Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 4782022057720220577<br>
