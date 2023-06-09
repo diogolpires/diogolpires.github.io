@@ -6,17 +6,18 @@ title: Talks
 
 ## Conferences
 
-8\. 07.2023 [upcoming] The evolutionary dynamics of multiplayer cooperation in networks of mobile agents\
+8.  07.2023 [upcoming] The evolutionary dynamics of multiplayer cooperation in networks of mobile agents\
     [NetSci 2023.](https://netsci2023.wixsite.com/netsci2023) Vienna, Austria.
 
-7\. 03.04.2023 Evolutionary dynamics of multiplayer cooperation under mobile structured populations\
-  [BAMC 2023.](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) Bristol, UK.
+7.  03.04.2023 Evolutionary dynamics of multiplayer cooperation under mobile structured populations\
+    [BAMC 2023.](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) Bristol, UK.
 
-6\. 25.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
-  [ISDG 2022.](https://www.gerad.ca/colloques/isdg2022/program.html) Porto, Portugal.
+6   25.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
+    [ISDG 2022.](https://www.gerad.ca/colloques/isdg2022/program.html) Porto, Portugal.
 
-5\. 19.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
-  [MMEE 2022.](http://mmee.eu/index.html) Reading, UK.
+5.  19.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
+    [MMEE 2022.](http://mmee.eu/index.html) Reading, UK.
+    {: reversed="reversed"}
 
 ## Other
 
