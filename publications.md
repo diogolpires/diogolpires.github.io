@@ -10,9 +10,7 @@ Here is a list of some of my recent publications.
 
 2023
 
-<font size="3">  
-  
-* <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b>
+* <font size="3">  <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b>
   <br>
   Diogo L. Pires, Igor V. Erovenko, Mark Broom<br>
   Submitted. ArXiv:2304.09799.<br>
