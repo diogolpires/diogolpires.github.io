@@ -20,6 +20,9 @@ title: Talks
 
 ## Other
 
+* 05.06.2023 Network topology and movement cost--not updating mechanism--determine the evolution of cooperation in mobile structured populations\
+  [Ecology and Epidemiology Modeling -- EvoGamePlus International Summer School 2023.](https://eem-evogames.di.unito.it/program/) Torino, Italy.
+
 * 09.12.2022 Evolutionary Models of Finite and Structured Populations\
   [Queen Mary Internal Postgraduate Seminars.](https://www.qmul.ac.uk/maths/research/seminars/queen-mary-internal-postgraduate-seminar/) London, UK.
 
