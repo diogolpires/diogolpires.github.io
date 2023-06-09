@@ -7,7 +7,7 @@ title: Talks
 ## Conferences
 
 8\. 
-              &ensp; 07.2023 [upcoming] The evolutionary dynamics of multiplayer cooperation in networks of mobile agents\
+              &emsp; 07.2023 [upcoming] The evolutionary dynamics of multiplayer cooperation in networks of mobile agents\
 &nbsp; &nbsp; &ensp; [NetSci 2023.](https://netsci2023.wixsite.com/netsci2023) Vienna, Austria.
 
 7\. &nbsp; 03.04.2023 Evolutionary dynamics of multiplayer cooperation under mobile structured populations\
