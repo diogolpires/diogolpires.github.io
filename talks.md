@@ -8,7 +8,7 @@ title: Talks
 
 8\. 
               &nbsp; 07.2023 [upcoming] The evolutionary dynamics of multiplayer cooperation in networks of mobile agents\
-&nbsp; &nbsp; &nbsp; &nbsp; [NetSci 2023.](https://netsci2023.wixsite.com/netsci2023) Vienna, Austria.
+&nbsp; &nbsp; &nbsp; [NetSci 2023.](https://netsci2023.wixsite.com/netsci2023) Vienna, Austria.
 
 7\. &nbsp; 03.04.2023 Evolutionary dynamics of multiplayer cooperation under mobile structured populations\
     &nbsp; [BAMC 2023.](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) Bristol, UK.
