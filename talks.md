@@ -11,7 +11,7 @@ title: Talks
 
 &ensp; 
 
-7\. 03.04.2023 Evolutionary dynamics of multiplayer cooperation under mobile structured populations\
+7. 03.04.2023 Evolutionary dynamics of multiplayer cooperation under mobile structured populations\
     [BAMC 2023.](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) Bristol, UK.
 
 6\. &nbsp; 25.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
