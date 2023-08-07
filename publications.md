@@ -14,7 +14,7 @@ Here is a list of some of my recent publications.
   <br>
   Diogo L. Pires, Igor V. Erovenko, Mark Broom<br>
   PLoS ONE 18(8). e0289366<br>
-  (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">link/pdf</a>)
+  (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">link</a>) (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">pdf</a>)
   </font> 
 
 2022
