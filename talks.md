@@ -6,17 +6,20 @@ title: Talks
 
 ## Conferences
 
+*   [upcoming] 02.11.2023 The evolution of cooperation in mobile populations is determined by network topology and movement costs, not by the updating mechanism\
+    [Cognition, Behaviour & Evolution Network (CBEN) 2023.](https://www.cognitionbehaviorevolution.nl/?page_id=852) Utrecht, The Netherlands.
+    
 *   12.07.2023 The evolutionary dynamics of multiplayer cooperation in networks of mobile agents\
-    [NetSci 2023.](https://netsci2023.wixsite.com/netsci2023) Vienna, Austria.
+    [Network Science Society Conference (NetSci) 2023.](https://netsci2023.wixsite.com/netsci2023) Vienna, Austria.
 
 *   03.04.2023 Evolutionary dynamics of multiplayer cooperation under mobile structured populations\
-    [BAMC 2023.](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) Bristol, UK.
+    [British Applied Mathematics Colloquium (BAMC) 2023.](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) Bristol, UK.
 
 *   25.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
-    [ISDG 2022.](https://www.gerad.ca/colloques/isdg2022/program.html) Porto, Portugal.
+    [International Symposium on Dynamic Games and Applications 2022.](https://www.gerad.ca/colloques/isdg2022/program.html) Porto, Portugal.
 
 *   19.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
-    [MMEE 2022.](http://mmee.eu/index.html) Reading, UK. 
+    [Mathematical Models in Ecology and Evolution (MMEE) 2022.](http://mmee.eu/index.html) Reading, UK. 
 
 ## Other
 
