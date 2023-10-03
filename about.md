@@ -5,7 +5,7 @@ title: About
 
 I'm currently doing my PhD on **The evolution of cooperation in structured populations involving multiplayer interactions** under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html) as part of [EvoGamesPlus](https://evogamesplus.eu), a European consortium focused on the theory and applications of evolutionary game theory.
 
-From November 2023 to February 2024, I will be a research visitor at the [IMDEA Networks Institute](https://networks.imdea.org) in the [Opportunistic Architectures Lab](https://www.csh.ac.at), working with Professor [Vincenzo Mancuso](https://networks.imdea.org/team/imdea-networks-team/people/vincenzo-mancuso/) and Professor [Marco Ajmone Marsan](https://networks.imdea.org/team/imdea-networks-team/people/marco-ajmone-marsan/).
+From November 2023 to February 2024, I will be a research visitor at the [IMDEA Networks Institute](https://networks.imdea.org) in the Opportunistic Architectures Lab, working with Professor [Vincenzo Mancuso](https://networks.imdea.org/team/imdea-networks-team/people/vincenzo-mancuso/) and Professor [Marco Ajmone Marsan](https://networks.imdea.org/team/imdea-networks-team/people/marco-ajmone-marsan/).
 
 From April to July 2023, I was a research visitor at the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) and the [Complexity Science Hub](https://www.csh.ac.at), working with Professor [Rudolf Hanel](https://www.csh.ac.at/researcher/rudolf-hanel/).
 
