@@ -6,7 +6,7 @@ title: Talks
 
 ## Conferences
 
-*   [upcoming] 02.11.2023 The evolution of cooperation in mobile populations is determined by network topology and movement costs, not by the updating mechanism\
+*  02.11.2023 The evolution of cooperation in mobile populations is determined by network topology and movement costs, not by the updating mechanism\
     [Cognition, Behaviour & Evolution Network (CBEN) 2023.](https://www.cognitionbehaviorevolution.nl/?page_id=852) Utrecht, The Netherlands.
     
 *   12.07.2023 The evolutionary dynamics of multiplayer cooperation in networks of mobile agents\
