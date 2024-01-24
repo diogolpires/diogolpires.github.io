@@ -23,6 +23,10 @@ title: Talks
 
 ## Other
 
+
+*   22.01.2024 Multiplayer cooperation in networks of communities\
+    [EvoGamePlus International Winter School 2024.](https://sites.google.com/view/evogamesplus-szeged/home) Szeged, Hungary.
+
 *   05.06.2023 Network topology and movement cost--not updating mechanism--determine the evolution of cooperation in mobile structured populations\
     [Ecology and Epidemiology Modeling -- EvoGamePlus International Summer School 2023.](https://eem-evogames.di.unito.it/program/) Torino, Italy.
 
