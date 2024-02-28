@@ -35,17 +35,17 @@ Here is a list of some of my recent publications.
 * <b>The general rules of multiplayer cooperation in networks of communities</b>
   <br>
   <font size="4">   
-  Diogo L. Pires, Mark Broom<br>
+  with Mark Broom<br>
 
 * <b>Win-stay, fail-switch: Server selection strategies under switching costs</b>
   <br>
   <font size="4">   
-  Diogo L. Pires, Vincenzo Mancuso, Marco Ajmone Marsan, and Paolo Castagno<br>
+  with Vincenzo Mancuso, Marco Ajmone Marsan, and Paolo Castagno<br>
 
 * <b>Epidemiological Models of Skill Transmission</b>
   <br>
   <font size="4">   
-  Rudolf Hanel<br>
+  with Rudolf Hanel<br>
 
 
 
