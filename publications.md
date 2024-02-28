@@ -28,3 +28,24 @@ Here is a list of some of my recent publications.
    <font size="3">  
   Evolutionary game theory has proved to be a powerful tool to probe the self-organization of collective behaviour by considering frequency-dependent fitness in evolutionary processes. It has shown that the stability of a strategy depends not only on the payoffs received after each encounter but also on the population’s size. Here, we study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We proved that nine of the 24 possible games always lead to monotonically decreasing functions, similarly to fixed fitness scenarios. However, fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations. Fixation functions that increase from a global minimum to a positive asymptotic value are pervasive but may have been easily concealed by the weak selection limit. We obtained sufficient conditions to observe fixation increasing for small populations and three distinct ways this can occur. Finally, we describe fixation functions with the increasing regions bounded by two extremes under intermediate population sizes. We associate their occurrence with transitions from having one global extreme to other shapes.
   </font> 
+
+
+## In preparation:
+
+* <b>The general rules of multiplayer cooperation in networks of communities</b>
+  <br>
+  <font size="4">   
+  Diogo L. Pires, Mark Broom<br>
+
+* <b>Win-stay, fail-switch: Server selection strategies under switching costs</b>
+  <br>
+  <font size="4">   
+  Diogo L. Pires, Vincenzo Mancuso, Marco Ajmone Marsan, and Paolo Castagno<br>
+
+* <b>Epidemiological Models of Skill Transmission</b>
+  <br>
+  <font size="4">   
+  Rudolf Hanel<br>
+
+
+
