@@ -6,7 +6,7 @@ title: Publications
 
 Here is a list of some of my recent publications.
 
-## Journal Publications
+## Publications
 * <b>The rules of multiplayer cooperation in networks of communities</b> (2023)
   <br>
   <font size="4">   
@@ -21,8 +21,8 @@ Here is a list of some of my recent publications.
   <br>
   <font size="4">   
   Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
-  PLoS ONE 18(8). e0289366<br>
-  (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">link</a>) (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">pdf</a>) <br>
+  arXiv:2402.17842
+  (<a href="https://arxiv.org/abs/2402.17842" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2402.17842.pdf" target="_blank">pdf</a>) <br>
   </font> 
    <font size="3">  
   Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.
