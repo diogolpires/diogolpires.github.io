@@ -7,7 +7,26 @@ title: Publications
 Here is a list of some of my recent publications.
 
 ## Journal Publications
-
+* <b>The rules of multiplayer cooperation in networks of communities</b> (2023)
+  <br>
+  <font size="4">   
+  Diogo L. Pires, Mark Broom<br>
+  arXiv
+  (<a href="https://arxiv.org" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  Community organization permeates both social and biological complex systems. To study its interplay with behavior emergence, we model mobile structured populations with multiplayer interactions. We derive general analytical methods for evolutionary dynamics under high home fidelity when populations self-organize into networks of asymptotically isolated communities. In this limit, community organization dominates over the network structure and emerging behavior is independent of network topology. We obtain the rules of multiplayer cooperation in networks of communities for different types of social dilemmas. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Under weak selection, cooperation can evolve and be stable for any size (Q) and number (M) of communities if the reward-to-cost ratio (V/K) of public goods is higher than a critical value. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities. Contrary to public goods dilemmas relating to production, the multiplayer Hawk-Dove (HD) dilemma is a commons dilemma focusing on the fair consumption of preexisting resources. This game holds mixed results but tends to favour cooperation under larger communities, highlighting that the two types of social dilemmas might lead to solid differences in the behaviour adopted under community structure.
+  </font>
+* <b>Public Goods Games in Disease Evolution and Spread</b> (2023)
+  <br>
+  <font size="4">   
+  Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
+  PLoS ONE 18(8). e0289366<br>
+  (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">link</a>) (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.
+  </font> 
 * <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b> (2023)
   <br>
   <font size="4">   
@@ -32,10 +51,6 @@ Here is a list of some of my recent publications.
 
 ## In preparation:
 
-* <b>The general rules of multiplayer cooperation in networks of communities</b>
-  <br>
-  <font size="4">   
-  with Mark Broom<br>
 
 * <b>Win-stay, fail-switch: Server selection strategies under switching costs</b>
   <br>
