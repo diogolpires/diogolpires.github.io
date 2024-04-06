@@ -29,7 +29,7 @@ title: Talks
 
 
 *  05.04.2022 The co-evolution of multiplayer cooperation and movement on networks of mobile agents\
-    Data Nativess 2024. London, UK.
+    Data Natives 2024. London, UK.
 
 *   22.01.2024 Multiplayer cooperation in networks of communities\
     [EvoGamePlus International Winter School 2024.](https://sites.google.com/view/evogamesplus-szeged/home) Szeged, Hungary.
