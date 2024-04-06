@@ -6,6 +6,10 @@ title: Talks
 
 ## Conferences
 
+
+*  [Upcoming] 15.07.2023 The simple rules of multiplayer cooperation in networks of communities\
+    [Mathematical Models in Ecology and Evolution (MMEE) 2024.](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) Vienna, Austria.
+
 *  02.11.2023 The evolution of cooperation in mobile populations is determined by network topology and movement costs, not by the updating mechanism\
     [Cognition, Behaviour & Evolution Network (CBEN) 2023.](https://www.cognitionbehaviorevolution.nl/?page_id=852) Utrecht, The Netherlands.
     
@@ -23,6 +27,9 @@ title: Talks
 
 ## Other
 
+
+*  05.04.2022 The co-evolution of multiplayer cooperation and movement on networks of mobile agents\
+    Data Nativess 2024. London, UK.
 
 *   22.01.2024 Multiplayer cooperation in networks of communities\
     [EvoGamePlus International Winter School 2024.](https://sites.google.com/view/evogamesplus-szeged/home) Szeged, Hungary.
