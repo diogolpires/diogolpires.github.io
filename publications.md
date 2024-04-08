@@ -11,7 +11,7 @@ Here is a list of some of my recent publications.
   <br>
   <font size="4">   
   Diogo L. Pires, Mark Broom<br>
-  arXiv:2404.03718
+  arXiv:2404.03718 <br>
   (<a href="https://arxiv.org/abs/2404.03718" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2404.03718.pdf" target="_blank">pdf</a>) <br>
   </font> 
    <font size="3">  
@@ -21,7 +21,7 @@ Here is a list of some of my recent publications.
   <br>
   <font size="4">   
   Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
-  arXiv:2402.17842
+  arXiv:2402.17842 <br>
   (<a href="https://arxiv.org/abs/2402.17842" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2402.17842.pdf" target="_blank">pdf</a>) <br>
   </font> 
    <font size="3">  
