@@ -6,8 +6,10 @@ title: Talks
 
 ## Conferences
 
+*  [Upcoming] 04.09.2024 Multiplayer cooperation in networks of communities\
+    [Conference on Complex Systems (CCS) 2024.](https://ccs24.cssociety.org) Exeter, UK.
 
-*  [Upcoming] 15.07.2023 The simple rules of multiplayer cooperation in networks of communities\
+*  [Upcoming] 15.07.2024 The simple rules of multiplayer cooperation in networks of communities\
     [Mathematical Models in Ecology and Evolution (MMEE) 2024.](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) Vienna, Austria.
 
 *  02.11.2023 The evolution of cooperation in mobile populations is determined by network topology and movement costs, not by the updating mechanism\
