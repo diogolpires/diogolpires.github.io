@@ -29,6 +29,8 @@ title: Talks
 
 ## Other
 
+*   10.06.2024 Evolutionary models of cooperative behaviour: from simple to complex interactions\
+    [LSE Seminar on Combinatorics, Games and Optimisation.](https://www.lse.ac.uk/Mathematics/Events-and-Seminars/Seminar-and-PhD-Seminar-on-Combinatorics-Games-and-Optimisation) London, UK.
 
 *  05.04.2022 The co-evolution of multiplayer cooperation and movement on networks of mobile agents\
     Data Natives 2024. London, UK.
