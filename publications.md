@@ -52,7 +52,7 @@ Here is a list of some of my recent publications.
 ## In preparation:
 
 
-* <b>Win-stay, fail-switch: Server selection strategies under switching costs</b>
+* <b>Self-organization of public goods usage and an application to Internet services</b>
   <br>
   <font size="4">   
   with Vincenzo Mancuso, Marco Ajmone Marsan, and Paolo Castagno<br>
