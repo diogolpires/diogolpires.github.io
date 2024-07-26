@@ -6,7 +6,7 @@ title: Publications
 
 Here is a list of some of my recent publications.
 
-## Published
+## Published:
 * <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b> (2023)
   <br>
   <font size="4">   
