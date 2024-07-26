@@ -9,7 +9,10 @@ title: Talks
 *  [Upcoming] 04.09.2024 Multiplayer cooperation in networks of communities\
     [Conference on Complex Systems (CCS) 2024.](https://ccs24.cssociety.org) Exeter, UK.
 
-*  [Upcoming] 15.07.2024 The simple rules of multiplayer cooperation in networks of communities\
+*  [Upcoming] 02.09.2024 The co-evolution of multiplayer cooperation and movement on networks of mobile agents\
+    [AMETHYST: Game Theory in Complex Systems @ CCS 2024.](https://amethystsatellite.weebly.com) Exeter, UK.
+
+*  15.07.2024 The simple rules of multiplayer cooperation in networks of communities\
     [Mathematical Models in Ecology and Evolution (MMEE) 2024.](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) Vienna, Austria.
 
 *  02.11.2023 The evolution of cooperation in mobile populations is determined by network topology and movement costs, not by the updating mechanism\
@@ -29,7 +32,7 @@ title: Talks
 
 ## Other
 
-*   [Upcoming] 10.06.2024 Evolutionary models of cooperative behaviour: from simple to complex interactions\
+*   10.06.2024 Evolutionary models of cooperative behaviour: from simple to complex interactions\
     [LSE Seminar on Combinatorics, Games and Optimisation.](https://www.lse.ac.uk/Mathematics/Events-and-Seminars/Seminar-and-PhD-Seminar-on-Combinatorics-Games-and-Optimisation) London, UK.
 
 *  05.04.2022 The co-evolution of multiplayer cooperation and movement on networks of mobile agents\
