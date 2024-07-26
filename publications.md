@@ -7,26 +7,6 @@ title: Publications
 Here is a list of some of my recent publications.
 
 ## Publications
-* <b>The rules of multiplayer cooperation in networks of communities</b> (2024)
-  <br>
-  <font size="4">   
-  Diogo L. Pires, Mark Broom<br>
-  arXiv:2404.03718 <br>
-  (<a href="https://arxiv.org/abs/2404.03718" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2404.03718.pdf" target="_blank">pdf</a>) <br>
-  </font> 
-   <font size="3">  
-  <!--Community organization permeates both social and biological complex systems. To study its interplay with behavior emergence, we model mobile structured populations with multiplayer interactions. We derive general analytical methods for evolutionary dynamics under high home fidelity when populations self-organize into networks of asymptotically isolated communities. In this limit, community organization dominates over the network structure and emerging behavior is independent of network topology. We obtain the rules of multiplayer cooperation in networks of communities for different types of social dilemmas. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Under weak selection, cooperation can evolve and be stable for any size (Q) and number (M) of communities if the reward-to-cost ratio (V/K) of public goods is higher than a critical value. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities. Contrary to public goods dilemmas relating to production, the multiplayer Hawk-Dove (HD) dilemma is a commons dilemma focusing on the fair consumption of preexisting resources. This game holds mixed results but tends to favour cooperation under larger communities, highlighting that the two types of social dilemmas might lead to solid differences in the behaviour adopted under community structure.-->
-  </font>
-* <b>Public Goods Games in Disease Evolution and Spread</b> (2024)
-  <br>
-  <font size="4">   
-  Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
-  arXiv:2402.17842 <br>
-  (<a href="https://arxiv.org/abs/2402.17842" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2402.17842.pdf" target="_blank">pdf</a>) <br>
-  </font> 
-   <font size="3">  
-  <!--Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.-->
-  </font> 
 * <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b> (2023)
   <br>
   <font size="4">   
@@ -48,6 +28,37 @@ Here is a list of some of my recent publications.
   <!--Evolutionary game theory has proved to be a powerful tool to probe the self-organization of collective behaviour by considering frequency-dependent fitness in evolutionary processes. It has shown that the stability of a strategy depends not only on the payoffs received after each encounter but also on the population’s size. Here, we study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We proved that nine of the 24 possible games always lead to monotonically decreasing functions, similarly to fixed fitness scenarios. However, fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations. Fixation functions that increase from a global minimum to a positive asymptotic value are pervasive but may have been easily concealed by the weak selection limit. We obtained sufficient conditions to observe fixation increasing for small populations and three distinct ways this can occur. Finally, we describe fixation functions with the increasing regions bounded by two extremes under intermediate population sizes. We associate their occurrence with transitions from having one global extreme to other shapes.-->
   </font> 
 
+## Preprint:
+* <b>The rules of multiplayer cooperation in networks of communities</b> (2024)
+  <br>
+  <font size="4">   
+  Diogo L. Pires, Mark Broom<br>
+  arXiv:2404.03718 <br>
+  (<a href="https://arxiv.org/abs/2404.03718" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2404.03718.pdf" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  <!--Community organization permeates both social and biological complex systems. To study its interplay with behavior emergence, we model mobile structured populations with multiplayer interactions. We derive general analytical methods for evolutionary dynamics under high home fidelity when populations self-organize into networks of asymptotically isolated communities. In this limit, community organization dominates over the network structure and emerging behavior is independent of network topology. We obtain the rules of multiplayer cooperation in networks of communities for different types of social dilemmas. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Under weak selection, cooperation can evolve and be stable for any size (Q) and number (M) of communities if the reward-to-cost ratio (V/K) of public goods is higher than a critical value. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities. Contrary to public goods dilemmas relating to production, the multiplayer Hawk-Dove (HD) dilemma is a commons dilemma focusing on the fair consumption of preexisting resources. This game holds mixed results but tends to favour cooperation under larger communities, highlighting that the two types of social dilemmas might lead to solid differences in the behaviour adopted under community structure.-->
+  </font>
+  * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
+  <br>
+  <font size="4">   
+  Duncan Cassells, Lorenzo Costantini, Ariel Flint Ashery, Shreyas Gadge, Diogo L. Pires, Miguel Á. Sánchez-Cortés, Arnaldo Santoro, Elisa Omodei<br>
+  arXiv:2407.03117 <br>
+  (<a href="https://arxiv.org/abs/2407.03117" target="_blank">link</a>) (<a href="https://arxiv.org/abs/2407.03117.pdf" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  <!--Food insecurity, defined as the lack of physical or economic access to safe, nutritious and sufficient food, remains one of the main challenges of the 2030 Agenda for Sustainable Development. Food insecurity is a complex phenomenon, resulting from the interplay of environmental, socio-demographic, and political events. Previous work has investigated the nexus between climate change, conflict, migration and food security at the household level, however these relations are still largely unexplored at national scales. In this context, during the Complexity72h workshop, held at the Universidad Carlos III de Madrid in June 2024, we explored the co-evolution of international migration flows and food insecurity at the national scale, accounting for remittances, as well as for changes in the economic, conflict, and climate situation. To this aim, we gathered data from several publicly available sources (Food and Agriculture Organization, World Bank, and UN Department of Economic and Social Affairs) and analyzed the association between food insecurity and migration, migration and remittances, and remittances and food insecurity. We then propose a framework linking together these associations to model the co-evolution of food insecurity and international migrations.-->
+  </font> 
+* <b>Public Goods Games in Disease Evolution and Spread</b> (2024)
+  <br>
+  <font size="4">   
+  Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
+  arXiv:2402.17842 <br>
+  (<a href="https://arxiv.org/abs/2402.17842" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2402.17842.pdf" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  <!--Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.-->
+  </font> 
 
 ## In preparation:
 
