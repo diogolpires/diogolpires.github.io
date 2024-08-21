@@ -11,7 +11,7 @@ Here is a list of some of my recent publications.
   <br>
   <font size="4">   
   Diogo L. Pires, Mark Broom<br>
-  PLoS Comput Biol 20(8): e1012388<br>
+  PLoS Computational Biology 20(8): e1012388<br>
   (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388" target="_blank">link</a>) (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388" target="_blank">pdf</a>) <br>
   </font> 
    <font size="3">  
