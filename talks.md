@@ -6,10 +6,10 @@ title: Talks
 
 ## Conferences
 
-*  [Upcoming] 04.09.2024 Multiplayer cooperation in networks of communities\
+*  05.09.2024 Multiplayer cooperation in networks of communities\
     [Conference on Complex Systems (CCS) 2024.](https://ccs24.cssociety.org) Exeter, UK.
 
-*  [Upcoming] 02.09.2024 The co-evolution of multiplayer cooperation and movement on networks of mobile agents\
+*  02.09.2024 The co-evolution of multiplayer cooperation and movement on networks of mobile agents\
     [AMETHYST: Game Theory in Complex Systems @ CCS 2024.](https://amethystsatellite.weebly.com) Exeter, UK.
 
 *  15.07.2024 The simple rules of multiplayer cooperation in networks of communities\
