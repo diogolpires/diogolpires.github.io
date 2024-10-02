@@ -63,15 +63,19 @@ Here is a list of some of my recent publications.
 ## In preparation:
 
 
-* <b>Self-organization of public goods usage and an application to Internet services</b>
+* <b>Self-organisation of common goods usage and an application to Internet services</b>
   <br>
   <font size="4">   
   with Vincenzo Mancuso, Marco Ajmone Marsan, and Paolo Castagno<br>
 
-* <b>Epidemiological Models of Skill Transmission</b>
+* <b>Skill transmission dynamics and the emergence of new skills</b>
   <br>
   <font size="4">   
   with Rudolf Hanel<br>
 
+* <b>Multiplayer social dilemmas in completely mixed populations and networks of mixing communities</b>
+  <br>
+  <font size="4">   
+  with Mark Broom<br>
 
 
