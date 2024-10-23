@@ -6,7 +6,7 @@ title: Teaching
 
 ## Past students
 
-* Saman Moghimiasl (MSc in Project Management, Risk and Finance, City, University of London)\
+* Saman Moghimiasl, City, University of London (MSc Student 2023/24)\
   Modelling cooperation and punishment in multiplayer social dilemmas.
 
 ## Lectures
