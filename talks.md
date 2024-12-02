@@ -32,7 +32,7 @@ title: Talks
 
 ## Other
 
-*   [upcoming] 15.10.2024 Multiplayer cooperation in networks of communities\
+*   15.10.2024 Multiplayer cooperation in networks of communities\
     [Evolutionary Graph Theory Workshop at the Max Planck Institute for Evolutionary Biology.](https://workshops.evolbio.mpg.de/event/116/overview) Ploen, Germany.
 
 *   10.06.2024 Evolutionary models of cooperative behaviour: from simple to complex interactions\
