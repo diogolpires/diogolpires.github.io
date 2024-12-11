@@ -31,6 +31,8 @@ title: Talks
     [Mathematical Models in Ecology and Evolution (MMEE) 2022.](http://mmee.eu/index.html) Reading, UK. 
 
 ## Other
+*   09.12.2024 Social behaviour in structured and mobile populations\
+    [EvoGamesPlus Open End Conference 2024.](https://sites.google.com/view/evogamesplus-conference-2024/home) Prague, Czechia.
 
 *   15.10.2024 Multiplayer cooperation in networks of communities\
     [Evolutionary Graph Theory Workshop at the Max Planck Institute for Evolutionary Biology.](https://workshops.evolbio.mpg.de/event/116/overview) Ploen, Germany.
