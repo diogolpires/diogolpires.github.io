@@ -7,6 +7,16 @@ title: Publications
 Here is a list of some of my recent publications.
 
 ## Published:
+* <b>Public Goods Games in Disease Evolution and Spread</b> (2025)
+  <br>
+  <font size="4">   
+  Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
+  Dynamic Games and Applications <br>
+  (<a href="https://link.springer.com/article/10.1007/s13235-025-00619-5" target="_blank">link</a>) (<a href="https://link.springer.com/article/10.1007/s13235-025-00619-5#citeas" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  <!--Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.-->
+  </font> 
 * <b>The rules of multiplayer cooperation in networks of communities</b> (2024)
   <br>
   <font size="4">   
@@ -49,16 +59,7 @@ Here is a list of some of my recent publications.
    <font size="3">  
   <!--Food insecurity, defined as the lack of physical or economic access to safe, nutritious and sufficient food, remains one of the main challenges of the 2030 Agenda for Sustainable Development. Food insecurity is a complex phenomenon, resulting from the interplay of environmental, socio-demographic, and political events. Previous work has investigated the nexus between climate change, conflict, migration and food security at the household level, however these relations are still largely unexplored at national scales. In this context, during the Complexity72h workshop, held at the Universidad Carlos III de Madrid in June 2024, we explored the co-evolution of international migration flows and food insecurity at the national scale, accounting for remittances, as well as for changes in the economic, conflict, and climate situation. To this aim, we gathered data from several publicly available sources (Food and Agriculture Organization, World Bank, and UN Department of Economic and Social Affairs) and analyzed the association between food insecurity and migration, migration and remittances, and remittances and food insecurity. We then propose a framework linking together these associations to model the co-evolution of food insecurity and international migrations.-->
   </font> 
-* <b>Public Goods Games in Disease Evolution and Spread</b> (2024)
-  <br>
-  <font size="4">   
-  Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
-  arXiv:2402.17842 <br>
-  (<a href="https://arxiv.org/abs/2402.17842" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2402.17842.pdf" target="_blank">pdf</a>) <br>
-  </font> 
-   <font size="3">  
-  <!--Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.-->
-  </font> 
+
 
 ## In preparation:
 
