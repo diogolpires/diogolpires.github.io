@@ -10,8 +10,8 @@ Here is a list of some of my recent publications.
 * <b>Public Goods Games in Disease Evolution and Spread</b> (2025)
   <br>
   <font size="4">   
-  Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, Diogo L. Pires, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
-  Dynamic Games and Applications <br>
+  Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, <b>Diogo L. Pires</b>, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
+  Dynamic Games and Applications https://doi.org/10.1007/s13235-025-00619-5 <br>
   (<a href="https://link.springer.com/article/10.1007/s13235-025-00619-5" target="_blank">link</a>) (<a href="https://link.springer.com/article/10.1007/s13235-025-00619-5#citeas" target="_blank">pdf</a>) <br>
   </font> 
    <font size="3">  
@@ -20,7 +20,7 @@ Here is a list of some of my recent publications.
 * <b>The rules of multiplayer cooperation in networks of communities</b> (2024)
   <br>
   <font size="4">   
-  Diogo L. Pires, Mark Broom<br>
+  <b>Diogo L. Pires</b>, Mark Broom<br>
   PLoS Computational Biology 20(8): e1012388<br>
   (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388" target="_blank">link</a>) (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388" target="_blank">pdf</a>) <br>
   </font> 
@@ -30,7 +30,7 @@ Here is a list of some of my recent publications.
 * <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b> (2023)
   <br>
   <font size="4">   
-  Diogo L. Pires, Igor V. Erovenko, Mark Broom<br>
+  <b>Diogo L. Pires</b>, Igor V. Erovenko, Mark Broom<br>
   PLoS ONE 18(8). e0289366<br>
   (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">link</a>) (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">pdf</a>) <br>
   </font> 
@@ -40,7 +40,7 @@ Here is a list of some of my recent publications.
 * <b>More can be better: An analysis of single-mutant fixation probability functions under 2×2 games</b> (2022)
   <br>
   <font size="4"> 
-  Diogo L. Pires, Mark Broom<br>
+  <b>Diogo L. Pires</b>, Mark Broom<br>
   Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 4782022057720220577<br>
   (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2022.0577" target="_blank">link</a>) (<a href="https://royalsocietypublishing.org/eprint/VWSNTSCYIIAXFAFT2HJ3/full" target="_blank">pdf</a>) <br>
   </font> 
@@ -52,7 +52,7 @@ Here is a list of some of my recent publications.
 * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
   <br>
   <font size="4">   
-  Duncan Cassells, Lorenzo Costantini, Ariel Flint Ashery, Shreyas Gadge, Diogo L. Pires, Miguel Á. Sánchez-Cortés, Arnaldo Santoro, Elisa Omodei<br>
+  Duncan Cassells, Lorenzo Costantini, Ariel Flint Ashery, Shreyas Gadge, <b>Diogo L. Pires</b>, Miguel Á. Sánchez-Cortés, Arnaldo Santoro, Elisa Omodei<br>
   arXiv:2407.03117 <br>
   (<a href="https://arxiv.org/abs/2407.03117" target="_blank">link</a>) (<a href="https://arxiv.org/abs/2407.03117.pdf" target="_blank">pdf</a>) <br>
   </font> 
