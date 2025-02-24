@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm currently doing my PhD on **The evolution of multiplayer cooperation and complex social behaviour in structured and mobile populations** under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html) as part of [EvoGamesPlus](https://evogamesplus.eu), a European consortium focused on the theory and applications of evolutionary game theory.
+I did my PhD on **The evolution of multiplayer cooperation and complex social behaviour in structured and mobile populations** under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html) as part of [EvoGamesPlus](https://evogamesplus.eu), a European consortium focused on the theory and applications of evolutionary game theory.
 
 In January and February 2024, I was a research visitor at the [IMDEA Networks Institute](https://networks.imdea.org) in the Opportunistic Architectures Lab, working with Professor [Vincenzo Mancuso](https://networks.imdea.org/team/imdea-networks-team/people/vincenzo-mancuso/) and Professor [Marco Ajmone Marsan](https://networks.imdea.org/team/imdea-networks-team/people/marco-ajmone-marsan/).
 
