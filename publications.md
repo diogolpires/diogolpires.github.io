@@ -49,6 +49,19 @@ Here is a list of some of my recent publications.
   </font> 
 
 ## Preprints:
+
+
+* <b>Self-organisation of common goods usage and an application to Internet services</b>
+  <br>
+  <font size="4">   
+  <b>Diogo L. Pires</b>, Vincenzo Mancuso, Paolo Castagno, Marco Ajmone Marsan<br>
+  arXiv:2504.07175 <br>
+  (<a href="https://arxiv.org/abs/2504.07175" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2504.07175" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  <!--Natural and human-made common goods present key challenges due to their susceptibility to degradation, overuse, or congestion. We explore the self-organisation of their usage when individuals have access to several available commons but limited information on them. We propose an extension of the Win-Stay, Lose-Shift (WSLS) strategy for such systems, under which individuals use a resource iteratively until they are unsuccessful and then shift randomly. This simple strategy leads to a distribution of the use of commons with an improvement against random shifting. Selective individuals who retain information on their usage and accordingly adapt their tolerance to failure in each common good improve the average experienced quality for an entire population. Hybrid systems of selective and non-selective individuals can lead to an equilibrium with equalised experienced quality akin to the ideal free distribution. We show that these results can be applied to the server selection problem faced by mobile users accessing Internet services and we perform realistic simulations to test their validity. Furthermore, these findings can be used to understand other real systems such as animal dispersal on grazing and foraging land, and to propose solutions to operators of systems of public transport or other technological commons.-->
+  </font> 
+  
 * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
   <br>
   <font size="4">   
@@ -62,12 +75,6 @@ Here is a list of some of my recent publications.
 
 
 ## In preparation:
-
-
-* <b>Self-organisation of common goods usage and an application to Internet services</b>
-  <br>
-  <font size="4">   
-  with Vincenzo Mancuso, Marco Ajmone Marsan, and Paolo Castagno<br>
 
 * <b>Skill transmission dynamics and the emergence of new skills</b>
   <br>
