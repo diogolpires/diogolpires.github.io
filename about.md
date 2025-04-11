@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-I did my PhD on **The evolution of multiplayer cooperation and complex social behaviour in structured and mobile populations** under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html) as part of [EvoGamesPlus](https://evogamesplus.eu), a European consortium focused on the theory and applications of evolutionary game theory.
+I am a postdoctoral researcher at the Copenhagen Center for Social Data Science (SODAS). My research is focused on understanding the emergence of social behaviour using a range of computational and mathematical modelling tools from network science, complex systems, evolutionary game theory, stochastic processes, and agent-based models. I am now developing new methodologies to better compare social interaction networks, applying them both to human and non-human animals.
+
+I hold a PhD from [City, University of London](https://www.citystgeorges.ac.uk). I have done my thesis on **The evolution of multiplayer cooperation and complex social behaviour in structured and mobile populations** under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html) as part of [EvoGamesPlus](https://evogamesplus.eu), a European consortium focused on the theory and applications of evolutionary game theory.
 
 In January and February 2024, I was a research visitor at the [IMDEA Networks Institute](https://networks.imdea.org) in the Opportunistic Architectures Lab, working with Professor [Vincenzo Mancuso](https://networks.imdea.org/team/imdea-networks-team/people/vincenzo-mancuso/) and Professor [Marco Ajmone Marsan](https://networks.imdea.org/team/imdea-networks-team/people/marco-ajmone-marsan/).
 
