@@ -10,7 +10,7 @@ title: Talks
     [Conference on Complex Systems (CCS) 2025.](https://ccs25.cssociety.org) Siena, Italy.
 
 *  [Upcoming] 03.09.2025 The rules of multiplayer cooperation in networks of communities\
-    [Feedback and Cooperative Effects in Networked Social Dynamics @ CCS 2025.](https://sites.google.com/view/ccs2025-netsocdyn-satellite/home) Siena, Italy.
+    [NetSocDyn: Feedback and Cooperative Effects in Networked Social Dynamics @ CCS 2025.](https://sites.google.com/view/ccs2025-netsocdyn-satellite/home) Siena, Italy.
 
 *  05.09.2024 Multiplayer cooperation in networks of communities\
     [Conference on Complex Systems (CCS) 2024.](https://ccs24.cssociety.org) Exeter, UK.
