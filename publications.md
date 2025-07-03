@@ -10,7 +10,7 @@ Here is a list of some of my recent publications.
 * <b>Public Goods Games in Disease Evolution and Spread</b> (2025)
   <br>
   <font size="3">
-  We review PGGs arising in the disease modelling of cancer evolution and the spread of infectious diseases. We propose that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated.
+  We review PGGs arising in the disease modelling of cancer evolution and the spread of infectious diseases. We propose that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour (b), can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated (a).
   <!--Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.-->
   </font> 
   <img src="PGGDisease.png" alt="We review PGGs arising in the disease modelling of cancer evolution and the spread of infectious diseases. We propose that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated." style="display: block; margin: auto;" width="400">
@@ -37,9 +37,9 @@ Here is a list of some of my recent publications.
   
 * <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b> (2023)
   <br>
-  <img src="MobilePopulation.png" alt="" width="400">
+  <img src="MobilePopulation.png" alt="We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure)." width="400">
   <font size="3">  
-  We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete networks and structure has a partially detrimental effect on it.
+  We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure).
   </font> 
   <font size="3">   
   <b>Diogo L. Pires</b>, Igor V. Erovenko, Mark Broom<br>
@@ -52,7 +52,11 @@ Here is a list of some of my recent publications.
   
 * <b>More can be better: An analysis of single-mutant fixation probability functions under 2×2 games</b> (2022)
   <br>
-  <font size="4"> 
+  <font size="3">
+  We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations.
+  </font> 
+   <img src="FixationWellMixed.png" alt="We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations." width="400">
+  <font size="3"> 
   <b>Diogo L. Pires</b>, Mark Broom<br>
   Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 4782022057720220577<br>
   (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2022.0577" target="_blank">link</a>) (<a href="https://royalsocietypublishing.org/eprint/VWSNTSCYIIAXFAFT2HJ3/full" target="_blank">pdf</a>) <br>
@@ -60,7 +64,6 @@ Here is a list of some of my recent publications.
    <font size="3">
   <!--Evolutionary game theory has proved to be a powerful tool to probe the self-organization of collective behaviour by considering frequency-dependent fitness in evolutionary processes. It has shown that the stability of a strategy depends not only on the payoffs received after each encounter but also on the population’s size. Here, we study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We proved that nine of the 24 possible games always lead to monotonically decreasing functions, similarly to fixed fitness scenarios. However, fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations. Fixation functions that increase from a global minimum to a positive asymptotic value are pervasive but may have been easily concealed by the weak selection limit. We obtained sufficient conditions to observe fixation increasing for small populations and three distinct ways this can occur. Finally, we describe fixation functions with the increasing regions bounded by two extremes under intermediate population sizes. We associate their occurrence with transitions from having one global extreme to other shapes.-->
   </font> 
-  <img src="FixationWellMixed.png" alt="" width="400">
 
 ## Preprints:
 
