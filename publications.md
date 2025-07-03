@@ -40,7 +40,7 @@ Here is a list of some of my recent publications.
   <font size="3">  
   We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure).
   </font>
-  <img src="MobilePopulation.png" alt="We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure)." width="500">
+  <img src="MobilePopulation.png" alt="We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure)." style="display: block; margin: auto;" width="300">
   <font size="3">   
   <b>Diogo L. Pires</b>, Igor V. Erovenko, Mark Broom<br>
   PLoS ONE 18(8). e0289366<br>
@@ -55,7 +55,7 @@ Here is a list of some of my recent publications.
   <font size="3">
   We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations.
   </font> 
-   <img src="FixationWellMixed.png" alt="We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations." width="500">
+   <img src="FixationWellMixed.png" alt="We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations." style="display: block; margin: auto;" width="500">
   <font size="3"> 
   <b>Diogo L. Pires</b>, Mark Broom<br>
   Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 4782022057720220577<br>
