@@ -22,7 +22,11 @@ Here is a list of some of my recent publications.
   
 * <b>The rules of multiplayer cooperation in networks of communities</b> (2024)
   <br>
-  <font size="4">   
+  <font size="3">  
+  We obtain the rules of multiplayer cooperation in networks of communities for social dilemmas caracterizing different types of social behaviour. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. 
+  </font>
+  <img src="FixationCommunity.png" alt="We obtain the rules of multiplayer cooperation in networks of communities for social dilemmas caracterizing different types of social behaviour. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities." style="display: block; margin: auto;" width="400">
+  <font size="3">   
   <b>Diogo L. Pires</b>, Mark Broom<br>
   PLoS Computational Biology 20(8): e1012388<br>
   (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388" target="_blank">link</a>) (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012388" target="_blank">pdf</a>) <br>
@@ -30,10 +34,14 @@ Here is a list of some of my recent publications.
    <font size="3">  
   <!--Community organization permeates both social and biological complex systems. To study its interplay with behavior emergence, we model mobile structured populations with multiplayer interactions. We derive general analytical methods for evolutionary dynamics under high home fidelity when populations self-organize into networks of asymptotically isolated communities. In this limit, community organization dominates over the network structure and emerging behavior is independent of network topology. We obtain the rules of multiplayer cooperation in networks of communities for different types of social dilemmas. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Under weak selection, cooperation can evolve and be stable for any size (Q) and number (M) of communities if the reward-to-cost ratio (V/K) of public goods is higher than a critical value. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities. Contrary to public goods dilemmas relating to production, the multiplayer Hawk-Dove (HD) dilemma is a commons dilemma focusing on the fair consumption of preexisting resources. This game holds mixed results but tends to favour cooperation under larger communities, highlighting that the two types of social dilemmas might lead to solid differences in the behaviour adopted under community structure.-->
   </font>
-  <img src="FixationCommunity.png" alt="We obtain the rules of multiplayer cooperation in networks of communities for social dilemmas caracterizing different types of social behaviour. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities." style="display: block; margin: auto;" width="400">
+  
 * <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b> (2023)
   <br>
-  <font size="4">   
+  <img src="MobilePopulation.png" alt="" width="400">
+  <font size="3">  
+  We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete networks and structure has a partially detrimental effect on it.
+  </font> 
+  <font size="3">   
   <b>Diogo L. Pires</b>, Igor V. Erovenko, Mark Broom<br>
   PLoS ONE 18(8). e0289366<br>
   (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">link</a>) (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289366" target="_blank">pdf</a>) <br>
@@ -41,7 +49,7 @@ Here is a list of some of my recent publications.
    <font size="3">  
   <!--Evolutionary models are used to study the self-organisation of collective action, often incorporating population structure due to its ubiquitous presence and long-known impact on emerging phenomena. We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. We find that the evolution of multiplayer cooperation primarily depends on the network topology and movement cost while using different stochastic update rules seldom influences evolutionary outcomes. Cooperation robustly co-evolves with movement on complete networks and structure has a partially detrimental effect on it. These findings contrast an established principle from evolutionary graph theory that cooperation can only emerge under some update rules and if the average degree is lower than the reward-to-cost ratio and the network far from complete. We find that group-dependent movement erases the locality of interactions, suppresses the impact of evolutionary structural viscosity on the fitness of individuals, and leads to assortative behaviour that is much more powerful than viscosity in promoting cooperation. We analyse the differences remaining between update rules through a comparison of evolutionary outcomes and fixation probabilities.-->
   </font> 
-  <img src="MobilePopulation.png" alt="" width="400">
+  
 * <b>More can be better: An analysis of single-mutant fixation probability functions under 2×2 games</b> (2022)
   <br>
   <font size="4"> 
