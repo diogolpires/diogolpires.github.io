@@ -13,7 +13,7 @@ Here is a list of some of my recent publications.
   We review PGGs arising in the disease modelling of cancer evolution and the spread of infectious diseases. We propose that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour (b), can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated (a).
   <!--Cooperation arises in nature at every scale, from within cells to entire ecosystems. In the framework of evolutionary game theory, public goods games (PGGs) are used to analyse scenarios where individuals can cooperate or defect, and can predict when and how these behaviours emerge. However, too few examples motivate the transferal of knowledge from one application of PGGs to another. Here, we focus on PGGs arising in disease modelling of cancer evolution and the spread of infectious diseases. We use these two systems as case studies for the development of the theory and applications of PGGs, which we succinctly review and compare. We also posit that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated. Furthermore, instances of cellular-level cooperation observed in cancers point to a corresponding area of potential interest for modellers of other diseases, be they viral, bacterial or otherwise. We aim to demonstrate the breadth of applicability of PGGs in disease modelling while providing a starting point for those interested in quantifying cooperation arising in healthcare.-->
   </font> 
-  <img src="PGGDisease.png" alt="We review PGGs arising in the disease modelling of cancer evolution and the spread of infectious diseases. We propose that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated." style="display: block; margin: auto;" width="400">
+  <img src="PGGDisease.png" alt="We review PGGs arising in the disease modelling of cancer evolution and the spread of infectious diseases. We propose that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated." style="display: block; margin: auto;" width="500">
   <font size="3">   
   Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, <b>Diogo L. Pires</b>, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
   Dynamic Games and Applications https://doi.org/10.1007/s13235-025-00619-5 <br>
@@ -25,7 +25,7 @@ Here is a list of some of my recent publications.
   <font size="3">  
   We obtain the rules of multiplayer cooperation in networks of communities for social dilemmas caracterizing different types of social behaviour. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. 
   </font>
-  <img src="FixationCommunity.png" alt="We obtain the rules of multiplayer cooperation in networks of communities for social dilemmas caracterizing different types of social behaviour. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities." style="display: block; margin: auto;" width="400">
+  <img src="FixationCommunity.png" alt="We obtain the rules of multiplayer cooperation in networks of communities for social dilemmas caracterizing different types of social behaviour. The success of cooperation is a result of the benefits shared amongst communal cooperators outperforming the benefits reaped by defectors in mixed communities. Community organization is a solid mechanism for sustaining the evolution of cooperation under public goods dilemmas, particularly when populations are organized into a higher number of smaller communities." style="display: block; margin: auto;" width="500">
   <font size="3">   
   <b>Diogo L. Pires</b>, Mark Broom<br>
   PLoS Computational Biology 20(8): e1012388<br>
@@ -37,10 +37,10 @@ Here is a list of some of my recent publications.
   
 * <b>Network topology and movement cost, not updating mechanism, determine the evolution of cooperation in mobile structured populations</b> (2023)
   <br>
-  <img src="MobilePopulation.png" alt="We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure)." width="400">
   <font size="3">  
   We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure).
-  </font> 
+  </font>
+  <img src="MobilePopulation.png" alt="We investigate the evolution of multiplayer cooperation in mobile structured populations, where individuals move strategically on networks and interact with those they meet in groups of variable size. Group-dependent movement erases the locality of interactions and leads to assortative behaviour that is much more powerful in promoting cooperation than fixed population structure. Cooperation robustly co-evolves with movement on complete and circle networks for six different evolutionary dynamics (in figure)." width="500">
   <font size="3">   
   <b>Diogo L. Pires</b>, Igor V. Erovenko, Mark Broom<br>
   PLoS ONE 18(8). e0289366<br>
@@ -55,7 +55,7 @@ Here is a list of some of my recent publications.
   <font size="3">
   We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations.
   </font> 
-   <img src="FixationWellMixed.png" alt="We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations." width="400">
+   <img src="FixationWellMixed.png" alt="We study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We show that fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations." width="500">
   <font size="3"> 
   <b>Diogo L. Pires</b>, Mark Broom<br>
   Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 4782022057720220577<br>
@@ -70,7 +70,7 @@ Here is a list of some of my recent publications.
 
 * <b>Self-organisation of common goods usage and an application to Internet services</b>
   <br>
-  <font size="4">   
+  <font size="3">   
   <b>Diogo L. Pires</b>, Vincenzo Mancuso, Paolo Castagno, Marco Ajmone Marsan<br>
   arXiv:2504.07175 <br>
   (<a href="https://arxiv.org/abs/2504.07175" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2504.07175" target="_blank">pdf</a>) <br>
@@ -81,7 +81,7 @@ Here is a list of some of my recent publications.
   
 * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
   <br>
-  <font size="4">   
+  <font size="3">   
   Duncan Cassells, Lorenzo Costantini, Ariel Flint Ashery, Shreyas Gadge, <b>Diogo L. Pires</b>, Miguel Á. Sánchez-Cortés, Arnaldo Santoro, Elisa Omodei<br>
   arXiv:2407.03117 <br>
   (<a href="https://arxiv.org/abs/2407.03117" target="_blank">link</a>) (<a href="https://arxiv.org/abs/2407.03117.pdf" target="_blank">pdf</a>) <br>
@@ -95,12 +95,12 @@ Here is a list of some of my recent publications.
 
 * <b>Skill transmission dynamics and the emergence of new skills</b>
   <br>
-  <font size="4">   
+  <font size="3">   
   with Rudolf Hanel<br>
 
 * <b>Multiplayer social dilemmas in completely mixed populations and networks of mixing communities</b>
   <br>
-  <font size="4">   
+  <font size="3">   
   with Mark Broom<br>
 
 
