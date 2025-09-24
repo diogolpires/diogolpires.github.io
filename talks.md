@@ -6,10 +6,10 @@ title: Talks
 
 ## Conferences
 
-*  [Upcoming] 05.09.2025  Self-organisation of common good usage and an application to Internet services\
+*  05.09.2025  Self-organisation of common good usage and an application to Internet services\
     [Conference on Complex Systems (CCS) 2025.](https://ccs25.cssociety.org) Siena, Italy.
 
-*  [Upcoming] 03.09.2025 The rules of multiplayer cooperation in networks of communities\
+*  03.09.2025 The rules of multiplayer cooperation in networks of communities\
     [NetSocDyn: Feedback and Cooperative Effects in Networked Social Dynamics @ CCS 2025.](https://sites.google.com/view/ccs2025-netsocdyn-satellite/home) Siena, Italy.
 
 *  05.09.2024 Multiplayer cooperation in networks of communities\
@@ -37,6 +37,10 @@ title: Talks
     [Mathematical Models in Ecology and Evolution (MMEE) 2022.](http://mmee.eu/index.html) Reading, UK. 
 
 ## Other
+
+*   [Upcoming] 01.10.2025 Social behaviour in structured and mobile populations\
+    [Behavioural Ecology Group, University of Copenhagen](https://www.behavioural-ecology-group.com) Copenhagen, Denmark.
+
 *   09.12.2024 Social behaviour in structured and mobile populations\
     [EvoGamesPlus Open End Conference 2024.](https://sites.google.com/view/evogamesplus-conference-2024/home) Prague, Czechia.
 
