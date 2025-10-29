@@ -38,7 +38,7 @@ title: Talks
 
 ## Other
 
-*   [Upcoming] 01.10.2025 Social behaviour in structured and mobile populations\
+*   29.10.2025 The role of structure and mobility in the evolution of social behaviour\
     [Behavioural Ecology Group, University of Copenhagen](https://www.behavioural-ecology-group.com) Copenhagen, Denmark.
 
 *   09.12.2024 Social behaviour in structured and mobile populations\
