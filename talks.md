@@ -38,7 +38,7 @@ title: Talks
 
 ## Other
 
-*   11.11.2025 Ghost Networks\
+*   11.11.2025 Ghost Networks: Identifying hidden drivers of social network structure\
     [Social Network Club at Centre for Research in Animal Behaviour, University of Exeter](https://www.exeter.ac.uk/research/groups/psychology/crab/) Exeter, UK.
 
 *   29.10.2025 The role of structure and mobility in the evolution of social behaviour\
