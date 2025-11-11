@@ -39,10 +39,10 @@ title: Talks
 ## Other
 
 *   11.11.2025 Ghost Networks: Identifying hidden drivers of social network structure\
-    [Social Network Club at Centre for Research in Animal Behaviour, University of Exeter](https://www.exeter.ac.uk/research/groups/psychology/crab/) Exeter, UK.
+    [Social Network Club at Centre for Research in Animal Behaviour, University of Exeter.](https://www.exeter.ac.uk/research/groups/psychology/crab/) Exeter, UK.
 
 *   29.10.2025 The role of structure and mobility in the evolution of social behaviour\
-    [Behavioural Ecology Group, University of Copenhagen](https://www.behavioural-ecology-group.com) Copenhagen, Denmark.
+    [Behavioural Ecology Group, University of Copenhagen.](https://www.behavioural-ecology-group.com) Copenhagen, Denmark.
 
 *   09.12.2024 Social behaviour in structured and mobile populations\
     [EvoGamesPlus Open End Conference 2024.](https://sites.google.com/view/evogamesplus-conference-2024/home) Prague, Czechia.
