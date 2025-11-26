@@ -7,6 +7,31 @@ title: Publications
 Here is a list of some of my recent publications.
 
 ## Published:
+* <b>Self-organisation of common goods usage and an application to Internet services</b>
+  <br>
+  <font size="3">
+  in print PNAS Nexus. arXiv:2504.07175 <br>
+  <b>Diogo L. Pires</b>, Vincenzo Mancuso, Paolo Castagno, Marco Ajmone Marsan<br>
+  </font> 
+   <font size="3">
+  Natural and human-made common goods present key challenges due to their susceptibility to degradation,
+overuse, and congestion. We explore the self-organisation of their usage when individuals have access to several
+available commons but limited information on them. We propose an extension of the Win-Stay, Lose-Shift (WSLS)
+strategy for such systems, in which individuals use a resource repeatedly until they are unsuccessful and then shift
+randomly. This simple and completely decentralised strategy promotes balanced resource use based solely on individual
+experience, as it does not require communication between individuals nor a governing institution to coordinate usage.
+Selective individuals who retain information on their usage and accordingly adapt their tolerance to failure in each
+common good improve the experienced quality for all individuals in the population. Even in hybrid populations of
+adaptive and non-adaptive individuals, the WSLS strategy allows self-organisation into an ideal distribution with equal
+experienced quality across common goods. We apply this strategy to the server selection problem faced by mobile
+users when accessing Internet services. Realistic simulations demonstrate its success, scalability, and robustness to
+dynamic system conditions. Furthermore, the WSLS strategy can be used to understand animal dispersal on grazing and
+foraging land, to propose solutions to operators of systems of public transport and other technological commons, and
+to address problems of common good usage in social systems through decentralised governance rather than controloriented
+policies.
+  <!--Natural and human-made common goods present key challenges due to their susceptibility to degradation, overuse, or congestion. We explore the self-organisation of their usage when individuals have access to several available commons but limited information on them. We propose an extension of the Win-Stay, Lose-Shift (WSLS) strategy for such systems, under which individuals use a resource iteratively until they are unsuccessful and then shift randomly. This simple strategy leads to a distribution of the use of commons with an improvement against random shifting. Selective individuals who retain information on their usage and accordingly adapt their tolerance to failure in each common good improve the average experienced quality for an entire population. Hybrid systems of selective and non-selective individuals can lead to an equilibrium with equalised experienced quality akin to the ideal free distribution. We show that these results can be applied to the server selection problem faced by mobile users accessing Internet services and we perform realistic simulations to test their validity. Furthermore, these findings can be used to understand other real systems such as animal dispersal on grazing and foraging land, and to propose solutions to operators of systems of public transport or other technological commons.-->
+(<a href="https://arxiv.org/abs/2504.07175" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2504.07175" target="_blank">pdf</a>) <br>
+  </font> 
 * <b>Public Goods Games in Disease Evolution and Spread</b> (2025)
   <br>
   <font size="3">
@@ -61,18 +86,6 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   </font> 
 
 ## Preprints:
-
-
-* <b>Self-organisation of common goods usage and an application to Internet services</b>
-  <br>
-  <font size="3">
-  arXiv:2504.07175 <br>
-  <b>Diogo L. Pires</b>, Vincenzo Mancuso, Paolo Castagno, Marco Ajmone Marsan<br>
-  (<a href="https://arxiv.org/abs/2504.07175" target="_blank">link</a>) (<a href="https://arxiv.org/pdf/2504.07175" target="_blank">pdf</a>) <br>
-  </font> 
-   <font size="3">  
-  <!--Natural and human-made common goods present key challenges due to their susceptibility to degradation, overuse, or congestion. We explore the self-organisation of their usage when individuals have access to several available commons but limited information on them. We propose an extension of the Win-Stay, Lose-Shift (WSLS) strategy for such systems, under which individuals use a resource iteratively until they are unsuccessful and then shift randomly. This simple strategy leads to a distribution of the use of commons with an improvement against random shifting. Selective individuals who retain information on their usage and accordingly adapt their tolerance to failure in each common good improve the average experienced quality for an entire population. Hybrid systems of selective and non-selective individuals can lead to an equilibrium with equalised experienced quality akin to the ideal free distribution. We show that these results can be applied to the server selection problem faced by mobile users accessing Internet services and we perform realistic simulations to test their validity. Furthermore, these findings can be used to understand other real systems such as animal dispersal on grazing and foraging land, and to propose solutions to operators of systems of public transport or other technological commons.-->
-  </font> 
   
 * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
   <br>
