@@ -77,9 +77,10 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
 
 ## Preprints:
 
-* <b>Introduction to python-TRM</b> (2025)
+* <b>Introduction to python-TRMbeta</b> (2025)
   <br>
   <font size="3">
+  GitHub: <a href="https://github.com/diogolpires/TRMbeta" target="_blank">TRMbeta</a><br>
   arXiv: <br>
   <b>Diogo L. Pires</b> <br>
   (<a href="https://arxiv.org/abs/" target="_blank">link</a>) (<a href="https://arxiv.org/abs/" target="_blank">pdf</a>) <br>
