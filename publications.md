@@ -76,6 +76,16 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   </font> 
 
 ## Preprints:
+
+* <b>Introduction to python-TRM</b> (2025)
+  <br>
+  <font size="3">
+  arXiv: <br>
+  <b>Diogo L. Pires</b> <br>
+  (<a href="https://arxiv.org/abs/" target="_blank">link</a>) (<a href="https://arxiv.org/abs/" target="_blank">pdf</a>) <br>
+  </font> 
+   <font size="3">  
+  </font> 
   
 * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
   <br>
