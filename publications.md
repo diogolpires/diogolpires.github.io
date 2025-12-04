@@ -81,7 +81,7 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   <br>
   <font size="3">
   GitHub: <a href="https://github.com/diogolpires/TRMbeta" target="_blank">TRMbeta</a><br>
-  arXiv: <br>
+  <!--arXiv: <br> -->
   <b>Diogo L. Pires</b> <br>
   (<a href="https://arxiv.org/abs/" target="_blank">link</a>) (<a href="https://arxiv.org/abs/" target="_blank">pdf</a>) <br>
   </font> 
@@ -101,6 +101,11 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
 
 
 ## In preparation:
+
+* <b>Ghost Networks: Identifying hidden drivers of social network structure</b>
+  <br>
+  <font size="3">   
+  <br>
 
 * <b>Skill transmission dynamics and the emergence of new skills</b>
   <br>
