@@ -25,7 +25,7 @@ Here is a list of some of my recent publications.
 * <b>Public Goods Games in Disease Evolution and Spread</b> (2025)
   <br>
   <font size="3">
-  Dynamic Games and Applications https://doi.org/10.1007/s13235-025-00619-5<br>
+  Dynamic Games and Applications 15, 1733–1749
   Christo Morison, Małgorzata Fic, Thomas Marcou, Javad Mohamadichamgavi, Javier Redondo Antón, Golsa Sayyar, Alexander Stein, Frank Bastian, Hana Krakovská, Nandakishor Krishnan, <b>Diogo L. Pires</b>, Mohammadreza Satouri, Frederik J. Thomsen, Kausutua Tjikundi, Wajid Ali<br>
   <img src="PGGDisease.png" alt="We review PGGs arising in the disease modelling of cancer evolution and the spread of infectious diseases. We propose that applications of evolutionary game theory to decision-making in cancer, such as interactions between a clinician and a tumour, can learn from the PGGs studied in epidemiology, where cooperative behaviours such as quarantine and vaccination compliance have been more thoroughly investigated." style="display: block; margin: auto;" width="500">
   <font>
