@@ -38,6 +38,9 @@ title: Talks
 
 ## Other
 
+*   29.01.2026 Macaque social network structure beyond rank assortativity\
+    [Cayo Jamboree at Caribbean Primate Research Center.](https://cprc.rcm.upr.edu) Palmas del Mar, Puerto Rico.
+
 *   11.11.2025 Ghost Networks: Identifying hidden drivers of social network structure\
     [Social Network Club at Centre for Research in Animal Behaviour, University of Exeter.](https://www.exeter.ac.uk/research/groups/psychology/crab/) Exeter, UK.
 
