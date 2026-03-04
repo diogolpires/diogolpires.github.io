@@ -99,12 +99,25 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   <!--Food insecurity, defined as the lack of physical or economic access to safe, nutritious and sufficient food, remains one of the main challenges of the 2030 Agenda for Sustainable Development. Food insecurity is a complex phenomenon, resulting from the interplay of environmental, socio-demographic, and political events. Previous work has investigated the nexus between climate change, conflict, migration and food security at the household level, however these relations are still largely unexplored at national scales. In this context, during the Complexity72h workshop, held at the Universidad Carlos III de Madrid in June 2024, we explored the co-evolution of international migration flows and food insecurity at the national scale, accounting for remittances, as well as for changes in the economic, conflict, and climate situation. To this aim, we gathered data from several publicly available sources (Food and Agriculture Organization, World Bank, and UN Department of Economic and Social Affairs) and analyzed the association between food insecurity and migration, migration and remittances, and remittances and food insecurity. We then propose a framework linking together these associations to model the co-evolution of food insecurity and international migrations.-->
   </font> 
 
+## Submitted:
+
+* <b>Multiplayer social dilemmas in completely mixed populations and networks of mixing communities</b>
+  <br>
+  <font size="3">   
+  with Mark Broom<br>
 
 ## In preparation:
 
 * <b>Ghost Networks: Identifying hidden drivers of social network structure</b>
   <br>
-  <font size="3">   
+  <font size="3">
+  with Sune Lehmann and Josefine Bohr Brask
+  <br>
+
+* <b>Rhesus macaques social network structure beyond rank assortativity</b>
+  <br>
+  <font size="3">
+  with Lauren J Brent and Josefine Bohr Brask
   <br>
 
 * <b>Skill transmission dynamics and the emergence of new skills</b>
@@ -112,9 +125,6 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   <font size="3">   
   with Rudolf Hanel<br>
 
-* <b>Multiplayer social dilemmas in completely mixed populations and networks of mixing communities</b>
-  <br>
-  <font size="3">   
-  with Mark Broom<br>
+
 
 
