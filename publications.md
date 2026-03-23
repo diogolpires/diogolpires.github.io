@@ -104,7 +104,7 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
 * <b>Multiplayer social dilemmas in completely mixed populations and networks of mixing communities</b>
   <br>
   <font size="3">   
-  with Mark Broom<br>
+  with Mark Broom. Submitted to Journal of Mathematical Biology.<br>
 
 ## In preparation:
 
@@ -124,6 +124,12 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   <br>
   <font size="3">   
   with Rudolf Hanel<br>
+
+* <b>General framework for combinations of higher-order games reveals reentrant transitions to cooperation in social dilemmas</b>
+  <br>
+  <font size="3">   
+  with Andrea Civilini, Vito Latora and Mark Broom<br>
+  
 
 
 
