@@ -120,12 +120,12 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   with Lauren J Brent and Josefine Bohr Brask
   <br>
 
-  * <b>General framework for combinations of higher-order games reveals reentrant transitions to cooperation in social dilemmas</b>
+* <b>General framework for combinations of higher-order games reveals reentrant transitions to cooperation in social dilemmas</b>
   <br>
   <font size="3">   
   with Andrea Civilini, Vito Latora and Mark Broom<br>
 
-  * <b>Skill transmission dynamics and the emergence of new skills</b>
+* <b>Skill transmission dynamics and the emergence of new skills</b>
   <br>
   <font size="3">   
   with Rudolf Hanel<br>
