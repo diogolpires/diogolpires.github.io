@@ -6,6 +6,12 @@ title: Talks
 
 ## Conferences
 
+*  20.07.2027  The role of structure and mobility in the evolution of cooperation\
+    [Evolutionary Game Theory @ International Symposium on Dynamic Games and Applications (ISDG) 2026.](https://www.gerad.ca/colloques/isdg2026) Istanbul, Turkey.
+
+*  13.07.2026 The role of structure and mobility in the evolution of cooperation\
+    [Game theory in ecology and evolution @ European Conference on Mathematical & Theoretical Biology (ECMTB) 2026.](https://ecmtb2026.org) Graz, Austria.
+
 *  05.09.2025  Self-organisation of common good usage and an application to Internet services\
     [Conference on Complex Systems (CCS) 2025.](https://ccs25.cssociety.org) Siena, Italy.
 
@@ -31,7 +37,7 @@ title: Talks
     [British Applied Mathematics Colloquium (BAMC) 2023.](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) Bristol, UK.
 
 *   25.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
-    [International Symposium on Dynamic Games and Applications 2022.](https://www.gerad.ca/colloques/isdg2022/program.html) Porto, Portugal.
+    [International Symposium on Dynamic Games and Applications (ISDG) 2022.](https://www.gerad.ca/colloques/isdg2022/program.html) Porto, Portugal.
 
 *   19.07.2022 More can be Better: An analysis of single mutant fixation probability functions under 2×2 games\
     [Mathematical Models in Ecology and Evolution (MMEE) 2022.](http://mmee.eu/index.html) Reading, UK. 
