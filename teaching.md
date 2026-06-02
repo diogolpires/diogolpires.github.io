@@ -20,6 +20,9 @@ title: Teaching
   MSc in Project Management, Finance and Risk, in the Department of Mathematics, City, University of London
 
 ## Teaching Assistance
+
+* 2025/2026 Spring Term -- Introduction to programming in R for biologists (Directed to PhD students)\
+  Course Assistance at the Department of Biology, University of Copenhagen
   
 * 2022/2023 Winter Term -- Introduction to Probability and Statistics (BSc in Mathematics and BSc in Computer Science)\
   Teaching Assistance at the Department of Mathematics, City, University of London
