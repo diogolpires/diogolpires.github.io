@@ -21,7 +21,7 @@ title: Teaching
 
 ## Teaching Assistance
 
-* 2025/2026 Spring Term -- Introduction to programming in R for biologists (Summer course directed to PhD students)\
+* 2025/2026 Spring Term -- Introduction to Programming in R for Biologists (Summer course directed to PhD students)\
   Course Assistance at the Department of Biology, University of Copenhagen
   
 * 2022/2023 Winter Term -- Introduction to Probability and Statistics (BSc in Mathematics and BSc in Computer Science)\
