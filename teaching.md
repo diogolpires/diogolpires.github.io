@@ -6,7 +6,7 @@ title: Teaching
 
 ## Students
 
-* Six MSc Students, University of Copenhagen (MSc in Social Data Science 2025/26)\
+* Six MSc Students, University of Copenhagen (MSc in Social Data Science 2025/26)
 
 * Saman Moghimiasl, City, University of London (MSc in Project Management, Finance and Risk Student 2023/24)\
   Modelling cooperation and punishment in multiplayer social dilemmas.
