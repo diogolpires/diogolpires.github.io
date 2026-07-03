@@ -7,11 +7,11 @@ title: Teaching
 ## Students
 
 * Six MSc Students, University of Copenhagen (MSc in Social Data Science 2025/26)\
-  Doxing within Organized Online Harassment: Large-Scale Classification and the Dynamics and Network Organization of Harmful Behavior.\
-  Beyond the Boardroom: Board Characteristics, Bipartite Networks, and Machine Learning for Predicting Firm Financial
-  Performance.\
-  Post Your Pay: An analysis of Salary Discourse in an Online Reddit Community.\
-  From Viewing to Doing: A Randomised Evaluation of Avatar-Led Onboarding.\
+  * Doxing within Organized Online Harassment: Large-Scale Classification and the Dynamics and Network Organization of Harmful Behavior.\
+  * Beyond the Boardroom: Board Characteristics, Bipartite Networks, and Machine Learning for Predicting Firm Financial
+  * Performance.\
+  * Post Your Pay: An analysis of Salary Discourse in an Online Reddit Community.\
+  * From Viewing to Doing: A Randomised Evaluation of Avatar-Led Onboarding.\
   
   
 
