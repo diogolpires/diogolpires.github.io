@@ -6,7 +6,15 @@ title: Teaching
 
 ## Students
 
-* Six MSc Students, University of Copenhagen (MSc in Social Data Science 2025/26)
+* Six MSc Students, University of Copenhagen (MSc in Social Data Science 2025/26)\
+  Doxing within Organized Online Harassment: Large-Scale Classification and the Dynamics and Network Organization of Harmful Behavior.\
+  Beyond the Boardroom: Board Characteristics, Bipartite Networks, and Machine Learning for Predicting Firm Financial
+  Performance.\
+  Post Your Pay: An analysis of Salary Discourse in an Online Reddit Community.\
+  From Viewing to Doing: A Randomised Evaluation of Avatar-Led Onboarding.\
+  
+  
+
 
 * Saman Moghimiasl, City, University of London (MSc in Project Management, Finance and Risk Student 2023/24)\
   Modelling cooperation and punishment in multiplayer social dilemmas.
