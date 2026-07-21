@@ -11,7 +11,7 @@ title: Talks
     [International Symposium on Dynamic Games and Applications (ISDG) 2026.](https://www.gerad.ca/colloques/isdg2026) Istanbul, Turkey.
 
 *  21.07.2027  The role of structure and mobility in the evolution of cooperation\
-    Evolutionary Game Theory @ [International Symposium on Dynamic Games and Applications (ISDG) 2026.](https://www.gerad.ca/colloques/isdg2026) Istanbul, Turkey.
+    Evolutionary Game Theory Minisymposium @ [International Symposium on Dynamic Games and Applications (ISDG) 2026.](https://www.gerad.ca/colloques/isdg2026) Istanbul, Turkey.
 
 *  17.07.2026 Macaque social network structure beyond rank assortativity\
     [European Conference on Mathematical & Theoretical Biology (ECMTB) 2026.](https://ecmtb2026.org) Graz, Austria.
