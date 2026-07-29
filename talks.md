@@ -7,10 +7,10 @@ title: Talks
 ## Conferences
 
 
-*  21.07.2027  Win‑stay, lose‑shift strategies drive the sustainable use of commons\
+*  21.07.2026  Win‑stay, lose‑shift strategies drive the sustainable use of commons\
     [International Symposium on Dynamic Games and Applications (ISDG) 2026.](https://www.gerad.ca/colloques/isdg2026) Istanbul, Turkey.
 
-*  21.07.2027  The role of structure and mobility in the evolution of cooperation\
+*  21.07.2026  The role of structure and mobility in the evolution of cooperation\
     Evolutionary Game Theory Minisymposium @ [International Symposium on Dynamic Games and Applications (ISDG) 2026.](https://www.gerad.ca/colloques/isdg2026) Istanbul, Turkey.
 
 *  17.07.2026 Macaque social network structure beyond rank assortativity\
