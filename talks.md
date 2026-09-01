@@ -6,6 +6,8 @@ title: Talks
 
 ## Conferences
 
+*  03.09.2026 Macaque social network structure beyond rank assortativity\
+    [European Conference for Behavioural Biology (ECBB) 2026.](https://www.aru.ac.uk/events/conferences/ecbb-2026) Cambridge, UK.
 
 *  21.07.2026  Win‑stay, lose‑shift strategies drive the sustainable use of commons\
     [International Symposium on Dynamic Games and Applications (ISDG) 2026.](https://www.gerad.ca/colloques/isdg2026) Istanbul, Turkey.
