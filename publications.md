@@ -101,6 +101,15 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   </font>
 
 ## Preprints:
+
+* <b>Multi-Label Active Learning for Doxing Detection: Enabling Large-Scale Analysis of the Dynamics and Network Organization of Harmful Behavior</b> (2026)
+  <br>
+  <font size="3">
+  arXiv:2407.03117 <br>
+  Nico Sherpa, Andrew Caines, Andrew C Herman,<b>Diogo L. Pires</b><br>
+  Cambridge Open Engage preprint. doi:10.33774/coe-2026-v9s31
+  (<a href="https://www.cambridge.org/engage/coe/article-details/6ab4e8d8d1922e37d5a1a708" target="_blank">link</a>) (<a href="https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6ab4e8d8d1922e37d5a1a708/original/multi-label-active-learning-for-doxing-detection-enabling-large-scale-analysis-of-the-dynamics-and-network-organization-of-harmful-behavior.pdf" target="_blank">pdf</a>) <br>
+  </font>
   
 * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
   <br>
