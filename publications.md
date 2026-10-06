@@ -91,11 +91,11 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
 * <b>Introduction to python-TRM</b> (2025)
   <br>
   <font size="3">
-  GitHub: <a href="https://github.com/diogolpires/TRM" target="_blank">TRM</a><br>
+  GitHub: <a href="https://github.com/diogolpires/TRM" target="_blank">diogolpires/TRM</a><br>
+  Zenodo: <a href="https://doi.org/10.5281/zenodo.23057199" target="_blank">[diogolpires/TRM](https://doi.org/10.5281/zenodo.23057199)</a>
   <!--arXiv: <br> -->
   <b>Diogo L. Pires</b> <br>
-  https://doi.org/10.5281/zenodo.23057199
-  (<a href="[https://arxiv.org/abs/](https://doi.org/10.5281/zenodo.23057199)" target="_blank">link</a>) (<a href="https://arxiv.org/abs/" target="_blank">pdf</a>) <br>
+  (<a href="https://doi.org/10.5281/zenodo.23057199" target="_blank">link</a>) (<a href="https://github.com/diogolpires/TRM/blob/main/Introduction%20to%20python-TRM.pdf" target="_blank">pdf</a>) <br>
   </font> 
    <font size="3">  
   </font>
