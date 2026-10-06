@@ -7,7 +7,18 @@ title: Publications
 Here is a list of some of my recent publications.
 
 ## Published:
-* <b>Self-organisation of common goods usage and an application to Internet services</b>
+
+
+* <b>Multiplayer social dilemmas in completely mixed populations and networks of mixing communities</b> (2026) 
+  <br>
+  <font size="3">
+  Journal of Mathematical Biology, Volume 93, article number 51<br>
+  <b>Diogo L. Pires</b>, Mark Broom<br>
+  (<a href=" https://link.springer.com/article/10.1007/s00285-026-02464-5" target="_blank">link</a>) (<a href=" https://link.springer.com/article/10.1007/s00285-026-02464-5" target="_blank">pdf</a>) <br>
+  </font> 
+
+  
+* <b>Self-organisation of common goods usage and an application to Internet services</b> (2025) 
   <br>
   <font size="3">
   PNAS Nexus, Volume 4, Issue 12, pgaf374<br>
@@ -75,18 +86,21 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   <!--Evolutionary game theory has proved to be a powerful tool to probe the self-organization of collective behaviour by considering frequency-dependent fitness in evolutionary processes. It has shown that the stability of a strategy depends not only on the payoffs received after each encounter but also on the population’s size. Here, we study 2×2 games in well-mixed finite populations by analyzing the fixation probabilities of single mutants as functions of population size. We proved that nine of the 24 possible games always lead to monotonically decreasing functions, similarly to fixed fitness scenarios. However, fixation functions showed increasing regions under 12 distinct anti-coordination, coordination and dominance games. Perhaps counter-intuitively, this establishes that single-mutant strategies often benefit from being in larger populations. Fixation functions that increase from a global minimum to a positive asymptotic value are pervasive but may have been easily concealed by the weak selection limit. We obtained sufficient conditions to observe fixation increasing for small populations and three distinct ways this can occur. Finally, we describe fixation functions with the increasing regions bounded by two extremes under intermediate population sizes. We associate their occurrence with transitions from having one global extreme to other shapes.-->
   </font> 
 
-## Preprints:
+## Packages:
 
-* <b>Introduction to python-TRMbeta</b> (2025)
+* <b>Introduction to python-TRM</b> (2025)
   <br>
   <font size="3">
-  GitHub: <a href="https://github.com/diogolpires/TRMbeta" target="_blank">TRMbeta</a><br>
+  GitHub: <a href="https://github.com/diogolpires/TRM" target="_blank">TRM</a><br>
   <!--arXiv: <br> -->
   <b>Diogo L. Pires</b> <br>
-  (<a href="https://arxiv.org/abs/" target="_blank">link</a>) (<a href="https://arxiv.org/abs/" target="_blank">pdf</a>) <br>
+  https://doi.org/10.5281/zenodo.23057199
+  (<a href="[https://arxiv.org/abs/](https://doi.org/10.5281/zenodo.23057199)" target="_blank">link</a>) (<a href="https://arxiv.org/abs/" target="_blank">pdf</a>) <br>
   </font> 
    <font size="3">  
-  </font> 
+  </font>
+
+## Preprints:
   
 * <b>A 72h exploration of the co-evolution of food insecurity and international migration</b> (2024)
   <br>
@@ -98,13 +112,6 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
    <font size="3">  
   <!--Food insecurity, defined as the lack of physical or economic access to safe, nutritious and sufficient food, remains one of the main challenges of the 2030 Agenda for Sustainable Development. Food insecurity is a complex phenomenon, resulting from the interplay of environmental, socio-demographic, and political events. Previous work has investigated the nexus between climate change, conflict, migration and food security at the household level, however these relations are still largely unexplored at national scales. In this context, during the Complexity72h workshop, held at the Universidad Carlos III de Madrid in June 2024, we explored the co-evolution of international migration flows and food insecurity at the national scale, accounting for remittances, as well as for changes in the economic, conflict, and climate situation. To this aim, we gathered data from several publicly available sources (Food and Agriculture Organization, World Bank, and UN Department of Economic and Social Affairs) and analyzed the association between food insecurity and migration, migration and remittances, and remittances and food insecurity. We then propose a framework linking together these associations to model the co-evolution of food insecurity and international migrations.-->
   </font> 
-
-## Submitted:
-
-* <b>Multiplayer social dilemmas in completely mixed populations and networks of mixing communities</b>
-  <br>
-  <font size="3">   
-  with Mark Broom. Submitted to Journal of Mathematical Biology.<br>
 
 ## In preparation:
 
