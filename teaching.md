@@ -11,6 +11,8 @@ title: Teaching
   * Beyond the Boardroom: Board Characteristics, Bipartite Networks, and Machine Learning for Predicting Firm Financial Performance.
   * Post Your Pay: An analysis of Salary Discourse in an Online Reddit Community.
   * From Viewing to Doing: A Randomised Evaluation of Avatar-Led Onboarding.
+  * The Gender Data Gap in AI-Generated Health Data: Auditing LLM Synthetic Datasets and Their Impact on Predictive Models for Ischemic Heart Disease
+  * The Consequences of Treating Gentrification as a Spatial Phenomenon: Explaining and predicting change in New York City
   
   
 
