@@ -111,12 +111,19 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
    <font size="3">  
   </font>
 
-## Preprints:
+## Preprints/ Submitted:
+
+* <b>General framework for combinations of higher-order games reveals reentrant transitions to cooperation in social dilemmas</b> (2026) <br> 
+  <font size="3">
+  Submitted to Proceedings of the Natural Academy of Sciences <br>
+  Andrea Civilini, <b>Diogo L. Pires</b>, Mark Broom, Vito Latora<br>
+  </font>
 
 * <b>Multi-Label Active Learning for Doxing Detection: Enabling Large-Scale Analysis of the Dynamics and Network Organization of Harmful Behavior</b> (2026)
   <br>
   <font size="3">
   Cambridge Open Engage preprint. doi:10.33774/coe-2026-v9s31<br>
+  Submitted to Natural Language Processing.
   Nico Sherpa, Andrew Caines, Andrew C Herman,<b>Diogo L. Pires</b><br>
   (<a href="https://www.cambridge.org/engage/coe/article-details/6ab4e8d8d1922e37d5a1a708" target="_blank">link</a>) (<a href="https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6ab4e8d8d1922e37d5a1a708/original/multi-label-active-learning-for-doxing-detection-enabling-large-scale-analysis-of-the-dynamics-and-network-organization-of-harmful-behavior.pdf" target="_blank">pdf</a>) <br>
   </font>
@@ -132,6 +139,7 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   <!--Food insecurity, defined as the lack of physical or economic access to safe, nutritious and sufficient food, remains one of the main challenges of the 2030 Agenda for Sustainable Development. Food insecurity is a complex phenomenon, resulting from the interplay of environmental, socio-demographic, and political events. Previous work has investigated the nexus between climate change, conflict, migration and food security at the household level, however these relations are still largely unexplored at national scales. In this context, during the Complexity72h workshop, held at the Universidad Carlos III de Madrid in June 2024, we explored the co-evolution of international migration flows and food insecurity at the national scale, accounting for remittances, as well as for changes in the economic, conflict, and climate situation. To this aim, we gathered data from several publicly available sources (Food and Agriculture Organization, World Bank, and UN Department of Economic and Social Affairs) and analyzed the association between food insecurity and migration, migration and remittances, and remittances and food insecurity. We then propose a framework linking together these associations to model the co-evolution of food insecurity and international migrations.-->
   </font> 
 
+
 ## In preparation:
 
 * <b>Ghost Networks: Identifying hidden drivers of social network structure</b>
@@ -145,11 +153,6 @@ Reviews PGGs arising in modelling of cancer evolution and the spread of infectio
   <font size="3">
   with Lauren J Brent and Josefine Bohr Brask
   <br>
-
-* <b>General framework for combinations of higher-order games reveals reentrant transitions to cooperation in social dilemmas</b>
-  <br>
-  <font size="3">   
-  with Andrea Civilini, Vito Latora and Mark Broom<br>
 
 * <b>Skill transmission dynamics and the emergence of new skills</b>
   <br>
