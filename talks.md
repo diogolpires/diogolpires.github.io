@@ -53,7 +53,7 @@ title: Talks
 
 ## Other
 
-*  25.11.2026 The connecting role of far-rank connections in rhesus macaque social networks\
+*  25.11.2026 Connecting the extremes: the important role of extreme-rank connections in rhesus macaque social networks\
     [Behavioural Ecology Group, University of Copenhagen.](https://www.behavioural-ecology-group.com) Copenhagen, Denmark.
 
 *   29.01.2026 Macaque social network structure beyond rank assortativity\
