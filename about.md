@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a postdoctoral researcher at the [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk/people/). My research is focused on understanding the emergence of social behaviour using a range of computational and mathematical modelling tools from network science, complex systems, evolutionary game theory, stochastic processes, and agent-based models. I am now developing new methodologies to better compare social interaction networks, applying them both to human and non-human animals.
+I am a postdoctoral researcher at the [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk/people/). My research is focused on understanding the emergence of social behaviour using a range of computational and mathematical modelling tools from network science, complex systems, evolutionary game theory, stochastic processes, and agent-based models. I am now developing new methodologies to analyse social interaction networks, applying them both to human and non-human animals.
 
 I hold a PhD from [City, University of London](https://www.citystgeorges.ac.uk). I have done my thesis on **The evolution of multiplayer cooperation and complex social behaviour in structured and mobile populations** under the supervision of [Mark Broom](http://www.staff.city.ac.uk/mark.broom/index.html), and as part of [EvoGamesPlus](https://evogamesplus.eu), a Marie Skłodowska-Curie consortium focused on the theory and applications of evolutionary game theory.
 
